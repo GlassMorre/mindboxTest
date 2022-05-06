@@ -1,0 +1,12 @@
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\bin\Debug\net6.0\figAreaCalc.deps.json
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\bin\Debug\net6.0\figAreaCalc.dll
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\bin\Debug\net6.0\figAreaCalc.pdb
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.csproj.AssemblyReference.cache
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.AssemblyInfoInputs.cache
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.AssemblyInfo.cs
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.dll
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\refint\figAreaCalc.dll
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\figAreaCalc.pdb
+C:\Users\GlassMorre\source\repos\GlassMorre\mindboxTest\figAreaCalc\obj\Debug\net6.0\ref\figAreaCalc.dll
