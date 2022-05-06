@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTest", "MindBoxTest.csproj", "{B2FFA57D-2AED-4104-9412-B1A1557AB416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FFA57D-2AED-4104-9412-B1A1557AB416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FFA57D-2AED-4104-9412-B1A1557AB416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FFA57D-2AED-4104-9412-B1A1557AB416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FFA57D-2AED-4104-9412-B1A1557AB416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285C164B-577D-41E7-9987-13D19E7972B2}
+	EndGlobalSection
+EndGlobal
