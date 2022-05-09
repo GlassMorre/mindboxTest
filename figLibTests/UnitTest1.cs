@@ -12,14 +12,14 @@ namespace figLibTests
         }
 
         [Test]
-        public void Test1()
+        public void CircleTest()
         {
             Circle circle = new Circle { Radius= 5.642 };
             Assert.AreEqual(100, AreaCalc.GetArea(circle),0.009);
         }
 
         [Test]
-        public void Test2()
+        public void TriangleTest()
         {
             Triangle triangle = new Triangle(3,4,5);
             Assert.AreEqual(6, AreaCalc.GetArea(triangle), 0.009);
